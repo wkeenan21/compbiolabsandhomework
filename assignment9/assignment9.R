@@ -1,6 +1,5 @@
 
-setwd("D:/")
-trout <- read.csv('trout.csv')
+
 
 library("ggplot2")
 install.packages("foreign")
@@ -14,7 +13,9 @@ library("Hmisc")
 library("reshape2")
 library("nnet")
 
-
+#DISCLAIMER: YOU WILL HAVE TO CHANGE THE WORKING DIRECTORY
+setwd("C:\Users\William Keenan\Documents\EBIO4420\compBioLabsAndHomework\CompBioGitRepo\assignment9")
+trout <- read.csv('trout.csv')
 
 #rename the columns I will be using
 names(trout) <- c("fish", "geno", "weight", "LogWT", "elev")
