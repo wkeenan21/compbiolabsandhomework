@@ -45,9 +45,10 @@ The ordinal regression model which used elevation as the independent variable wa
 Interestingly, the multinomial model with elevation as an independent variable performed exactly the same as the ordinal model. This indicates that adding a directionality to the model did not improve the likelihood of predicting the fish correctly. The model also performed poorly in the same areas that the ordinal model did.
 
 
-![Plot showing the how where the model performed correctly](%22http://tinypic.com?ref=2ah760j%22%20target=%22_blank%22%3E%3Cimg%20src=%22http://i67.tinypic.com/2ah760j.png%22%20border=%220%22%20alt=%22Image%20and%20video%20hosting%20by%20TinyPic%22%3E%3C/a%3E)
+![Plot showing the how where the model performed correctly](http://i67.tinypic.com/2ah760j.jpg)
 
+This plot shows how the model performed. As you can see, most of the mistakes occurred in the areas where hybrids and WCT were mixed.
 
 The model which included weight as the independent variable was accurate 19% of the time. This is worse than totally random (33%). This indicates that, at least with this data set, weight is useless as a predictor of genotype.
 
-Our results indicate that for the recreational fisher or scientist, elevation data could certainly be of use when trying to discrimenate between a rainbow trout and a western cutthroat trout.
+My results indicate that for the recreational fisher or scientist, the model could certainly be of use when trying to discriminate between a rainbow trout and a westslope cutthroat trout. However, using elevation data to distinguish between a hybrid fish and one or the other genotype in the absence of visual expertise cannot be recommended from the results from this study. In the presence of strong visual identification skills, elevation data could be useful in either relatively high or low elevations. In mid elevations, the model was not accurate enough to be helpful in the absence Weight data is not helpful in any case according to the results of my study. 
