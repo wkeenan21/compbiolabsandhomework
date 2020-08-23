@@ -5,8 +5,6 @@
 The driving question for this project is: "Is the relationship between mass, elevation, and genotype strong enough to allow mass and elevation to be used for quicker, easier identification of hybrid fish in the field." In many rivers affected by hybridization the identification of hybrids in comparison to non-hybrids is exceptionally difficult. Because mass and elevation are easily acquired attributes of fish caught in the field compared to other, time-consuming measurements, it may be possible to use these traits to speed up fish identification by researchers and recreational fishers.
 ## Context (introduction)
 
-This should help a naive reader make sense of what to expect and why it is interesting. It should make sense even before the reader reads the Methods.
-
 
 Methods
 
